@@ -1,0 +1,21 @@
+The following are four options that you can focus on for your presentation on Friday August 30th, 2019.  Please provide the following before 12:00PM August 30th:
+Report
+15 minute presentation slides
+All your reports and findings should be on GitHub including links to your slides.   Your submission should be via the following Google Form (https://forms.gle/TLAiXXXhbrekaryf9).
+
+Please note that your goal is not to develop a product or a demo in a week.  I will focus on assessing your 
+Option Analysis: options and provide recommendations.
+Defining User Stories, Use cases or Requirements
+Defining an MVP (Minimum Viable Product)
+System Design —> How you will design your MVP that can grow in the future.
+Testing strategy
+Use of Agile Tools (even it is a week-long exercise, I would like you to use Sprint concept and Code/Document management).
+
+
+Option 2:  Hardware Track:  Hardware acceleration for machine learning
+
+Machine learning is helping us solve problems and improving our products including medicine, autonomous driving, mining, and agriculture.  Researchers are developing new techniques that require more processing power.   For the placement exam, you are expected to write a report and presentation that will cover:
+Review of major HW accelerated machine learning concepts.
+Based on your analysis, develop major requirements for a new FPGA
+Provide System Architecture for the proposed system
+Set performance targets for your new system and justify those targets.
