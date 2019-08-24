@@ -1,0 +1,20 @@
+Introduction
+  -Importance of speed in machine learning
+  -Comparing CPU, GPU, FPGA, Custom Accelerator
+  -Thesis statement: Define specifications for a new GPU solution
+
+Review existing solutions from scholarly sources
+  -Discuss innovations unique to each
+  -Assess performance impact
+  
+Introduce new FPGA solution
+  -Potential innovation
+  -List requirements
+  -Architecture diagram
+  -Performace specifications
+  
+Discuss future development
+  -Trends in the field
+  -Solutions after FPGA
+  
+Conclusion
