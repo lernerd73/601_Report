@@ -1,0 +1,6 @@
+1) Identify a number of existing solutions for hardware-accelerated machine learning (FPGA or otherwise)
+2) Gather sources describing each solution and providing workload benchmarks
+3) Come up with requirements for a new FPGA solution
+4) Create system architecture diagram
+5) Write report
+6) Create presentation
