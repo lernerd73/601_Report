@@ -1,1 +1,8 @@
-
+Speedup from low precision data: https://ieeexplore.ieee.org/abstract/document/7966672
+Historical trends in deep learning on FPGA: https://arxiv.org/abs/1602.04283
+Heterogeneous solutions: https://ieeexplore.ieee.org/abstract/document/7152609
+Accelerator solution for a wide range of algorithms: https://ieeexplore.ieee.org/abstract/document/7446050
+DianNao large-scale acellerator: https://dl.acm.org/citation.cfm?id=2541967
+Burning FPGA with data: https://dl.acm.org/citation.cfm?id=2898003
+Memristive accelerator: https://ieeexplore.ieee.org/abstract/document/7446049
+Scalable DLAU: https://ieeexplore.ieee.org/abstract/document/7505926
